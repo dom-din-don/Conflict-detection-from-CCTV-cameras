@@ -5,9 +5,7 @@
 
 # 🛡️ Conflict Detection: Система распознавания конфликтов
 
-<p align="center">
-  <img src="static/site_preview.png" alt="Интерфейс системы" width="600"/>
-</p>
+<video rc="https://www.dropbox.com/scl/fi/2hym2f6aqg0q3ekogvcpx/ConflictV.mp4?rlkey=t83cipwqiruks4betv11mxl8q&st=7f0uhyub&raw=1" type="video/mp4" width="100%" controls></video>
 
 ##  Суть проекта
 Данный проект представляет собой интеллектуальную систему мониторинга видеопотока, предназначенную для автоматического обнаружения физических конфликтов (драк) и опасных ситуаций. Система позволяет снизить нагрузку на операторов видеонаблюдения и минимизировать время реакции на происшествия.
